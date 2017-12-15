@@ -14,5 +14,5 @@ docsify serve docs
 * index.html 入口文件
 * README.md 会做为主页内容渲染
 
-参考文档：https://docsify.js.org/#/
+参考文档：
 [https://docsify.js.org/#/](https://docsify.js.org/#/)
